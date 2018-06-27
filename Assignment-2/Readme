@@ -1,0 +1,31 @@
+The assignment folder contains 3 sub folders:
+
+1- Perceptron 
+	it contains 7 matlab files
+	i- loadMNISTImages.m
+	ii- loadMNISTLabels.m
+	iii- perceptron.m (the main file, you should run this file to run the code)
+	iv- hardLimitFunc.m
+	v- training.m
+	vi- testing.m
+	viii- evaluation.m
+	
+2- SVM
+	it contains 5 matlab files
+	i-SVMMain.m (You should run this file to run the code)
+	ii- loadMNISTImages.m
+	iii- loadMNISTLabels.m
+	iv- trainSVM.m
+	v- generateConfusionMatrix.m
+	
+3- Logistic Regression
+	it contains 7 matlab files
+	i- main.m (you should run this file to run the logistic regression code)
+	ii- classifier.m
+	iii- computeCost1.m
+	iv- evaluation.m
+	v- loadMNISTImages.m
+	vi- loadMNISTLabels.m
+	vii- sigmoid.m
+	
+	
